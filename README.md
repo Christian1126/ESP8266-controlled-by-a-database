@@ -6,5 +6,6 @@ Requried Software/Hardware for project:
   Arduino IDE
   and a text editor (e.g. notepadd++)
   Adafruit Feather huzzah ESP8266
+  data transfer cable
 
 A special thanks to my professor Dr. Boonsuk, who helped me a great deal finishing this project.
