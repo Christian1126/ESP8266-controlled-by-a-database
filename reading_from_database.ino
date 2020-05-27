@@ -3,8 +3,8 @@
 #include <ESP8266WiFi.h> 
 
 //Access point credentials
-const char* ssid = "myccidfd6";
-const char* pwd = "00027178DFD6";
+const char* ssid = "";
+const char* pwd = "";
 const char* host = "";
 String get_host = "";
 
