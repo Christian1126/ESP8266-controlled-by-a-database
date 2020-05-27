@@ -5,8 +5,8 @@
 //Access point credentials
 const char* ssid = "myccidfd6";
 const char* pwd = "00027178DFD6";
-const char* host = "http://192.168.1.6";
-String get_host = "http://192.168.1.6";
+const char* host = "";
+String get_host = "";
 
 WiFiServer server(80);  // open port 80 for server connection
 
